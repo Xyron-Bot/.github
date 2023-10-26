@@ -17,4 +17,4 @@ The reason why we created a github is for information + projects that we will op
 - Releasing a Snippet Repo (Coming Soon)
 
 ## Support
-For support, email: [xyronhelpdesk@gmail.com](mailto:xyronhelpdesk@gmail.com)
+For support, email: [xyronsdesk@gmail.com](mailto:xyronsdesk@gmail.com)
